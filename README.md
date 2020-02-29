@@ -11,7 +11,7 @@ My ideal company is a **software** company, located in **Berlin**, with 30-500 p
 
 It's a company that is internationally open and belive in investing in its people. 
 
-See [CV Katerine Salazar Gonzalez](CV Katerine Salazar Gonzalez.pdf)
+See [CV Katerine Salazar Gonzalez](https://github.com/katerine-sg/hire-me/blob/master/CV%20Katerine%20Salazar%20Gonzalez.pdf)
 
 Please contact me via email at katerine@expatsberlin.de
 
